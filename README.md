@@ -13,5 +13,5 @@ This repository will include:
 - Documentation for running the model and using the dataset
 
 ## Contact
-Hyunwook Park: dkdksjsh@yonsei.ac.kr
+Hyunwook Park: dkdksjsh@yonsei.ac.kr \
 Hongjo Kim* : hongjo@yonsei.ac.kr
