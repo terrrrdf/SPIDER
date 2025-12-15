@@ -1,4 +1,4 @@
-# SPIDER: Soft-constraint Physics-Informed Diffusion for PWP Field Reconstruction
+# SPIDER: Soft-constraint Physics-Informed Diffusion model for Embankment Reconstruction
 
 This repository accompanies the manuscript:
 “Soft-constraint physics-informed diffusion models for pore water pressure field reconstruction in embankment dams using sparse sensors.”
